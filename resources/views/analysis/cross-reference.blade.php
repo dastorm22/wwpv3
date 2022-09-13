@@ -48,7 +48,7 @@
 
                         <div class="card-box table-responsive">
                             <div id="spinner" class="text-center"><i class="fa fa-spin fa-cog"></i> Loading List</div>
-                            <table id="datatable" class="table table-striped table-bordered" >
+                            <table id="datatable" class="table table-striped table-bordered"  style="display: none;">
 
                                 <thead>
                                 <tr>
